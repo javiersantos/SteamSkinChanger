@@ -12,6 +12,7 @@ $ sh metroforsteam.sh
 
 #### Skins supported
 * Metro for Steam
+* PixelVision
 
 ## ROADMAP
 * [DONE] Language selection
@@ -20,3 +21,7 @@ $ sh metroforsteam.sh
 * [IN PROGRESS] Images and description of the themes
 * [IN PROGRESS] More skins
 * [IN PROGRESS] Autoactivate installed skin
+
+## IMAGES
+![Language selection](http://i.imgur.com/y8FMUP1.png)
+![Metro for Steam Skin](http://i.imgur.com/Fhikw2T.png)
