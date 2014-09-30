@@ -1,5 +1,6 @@
 ### 20140930-3
 * Added PixelVision Skin
+* Added Font support
 
 ### 20140930-2
 * Added Spanish language
